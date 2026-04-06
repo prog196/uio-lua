@@ -1,2 +1,3 @@
 # uio-lua
-hi
+local script = 'background.lua execute'
+print(tostring)(script)(execute))
