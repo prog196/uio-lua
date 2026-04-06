@@ -1,3 +1,2 @@
-# uio-lua
-local script = 'background.lua execute'
-print(tostring)(script)(execute))
+# bro ☠️
+HELP ME In the language of the moon :)
